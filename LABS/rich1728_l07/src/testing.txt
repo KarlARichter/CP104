@@ -1,0 +1,72 @@
+"""
+-------------------------------------------------------
+rich1728_l7 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter target population: 10000
+Enter current population: 1000
+Enter population growth rate: 10
+
+It will take 25 for the current population to reach the target population
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Next positive value: 4.2
+Next positive value: 3.5
+Next positive value: 0
+Next positive value: 6.1
+Next positive value: -1
+(Minimum: 0.00, Maximum: 6.10, Total: 13.80, Average: 3.45)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter your budget: $200
+Enter an expense (0 to quit): $150
+Enter an expense (0 to quit): $23
+Enter an expense (0 to quit): $12
+Enter an expense (0 to quit): $15
+Enter an expense (0 to quit): $37.50
+Enter an expense (0 to quit): $65
+Enter an expense (0 to quit): $0
+
+Total expenses: $302.50
+Remaining balance: $-102.50
+Budget status: Deficit
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter lowest number: 110
+Enter hightest number: 120
+Enter a value between 110 and 120: 1
+Value entered is too low
+Enter a value between 110 and 120: 150
+Value entered is too high
+Enter a value between 110 and 120: 115
+
+115
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter employee ID (0 to quit): 123
+Enter your hourly wage rate: 45
+Enter your number of hours worked: 46
+Net payment for employee 123: $2,125.07
+
+Enter employee ID (0 to quit): 124
+Enter your hourly wage rate: 30
+Enter your number of hours worked: 46
+Net payment for employee 124: $1,416.71
+
+Enter employee ID (0 to quit): 0
+
+Total net employee wages: $3,541.78
+Average employee net wages: $1,770.89
+-------------------------------------------------------

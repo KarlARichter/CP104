@@ -1,0 +1,52 @@
+"""
+-------------------------------------------------------
+rich1728_l3 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+        Up above the world so high,
+         Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter minimum: 5
+Enter maximum: 3
+The difference between 3 and 5 is -2
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter amout of dirt (m^3):3
+Enter amout of gravel (m^3):5
+Enter amout of sand (m^3):6
+
+Material   Cubic Metres
+Dirt       3.0
+Gravel     5.0
+Sand       6.0
+Total     14.0
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter number of minutes: 7273984723
+There are 5051378 days, 6 hours, and 43 minutes in 7273984723 minutes
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.000000
+654.320000
+Hello World
+-------------------------------------------------------

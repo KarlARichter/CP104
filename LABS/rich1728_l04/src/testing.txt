@@ -1,0 +1,67 @@
+"""
+-------------------------------------------------------
+rich1728_l4 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-17
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter radius: 5
+
+Diameter of circle: 10.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the base: 5
+Enter the height: 6
+6.5 , 90.0 , 50.0
+
+Enter the base: 5
+Enter the height: 10
+10.307764064044152 , 128.07764064044153 , 83.33333333333334
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Enter amount of nickels: 5
+Enter amount of dimes: 8
+Enter amount of quarters: 5
+Enter amount of loonies: 3
+Enter amount of toonies: 4
+
+Total amount of money: $13.30
+
+Enter amount of nickels: 3
+Enter amount of dimes: 10
+Enter amount of quarters: 5
+Enter amount of loonies: 4
+Enter amount of toonies: 3
+
+Total amount of money: $12.40
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter current population: 1000000
+Enter average seconds between births: 80
+Enter average seconds between deaths: 95
+Enter average seconds between immigrations: 212
+Enter years to calculate new population: 5
+
+Projected population after 5 years: 2054984
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter total seconds: 345234
+
+3 days, 95 hours, and 5753 minutes
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Enter total seconds: 234123
+
+2 days, 17 hours, 2 minutes, and 3 seconds
+-------------------------------------------------------
