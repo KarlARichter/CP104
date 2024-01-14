@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+rich1728_a4 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter number for day: 3
+The number 3 corresponds to Tuesday
+
+Enter number for day: 4
+The number 4 corresponds to Wednesday
+
+Enter number for day: 7
+The number 7 corresponds to Saturday
+
+Enter number for day: 10
+The number 4 corresponds to Wednesday
+
+Enter number for day: 10
+The number 10 corresponds to Error
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter Air Quality Index(AQI): 3
+
+3 AQI falls under the following category: Good
+
+
+Enter Air Quality Index(AQI): 3
+
+-3 AQI falls under the following category: Error
+
+
+Enter Air Quality Index(AQI): 276
+
+3 AQI falls under the following category: Very Unhealthy
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter first number: 5
+Enter second number: 4
+Enter third number: 2
+
+The average of the two largest numbers is 4.5
+
+Enter first number: 4
+Enter second number: -5
+Enter third number: 20
+
+The average of the two largest numbers is 12.0
+
+Enter first number: -56
+Enter second number: -45
+Enter third number: -12
+
+The average of the two largest numbers is -28.5
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter first colour: red
+Enter second colour: gree
+
+red mixed with gree gives Error
+
+Enter first colour: red
+Enter second colour: blue
+
+red mixed with blue gives fuchsia
+
+Enter first colour: blue
+Enter second colour: red
+
+red mixed with blue gives fuchsia
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter number: 5
+
+Your sentence is: Zip
+
+Enter number: 14
+
+Your sentence is: Hoo Rah
+
+Enter number: 2
+
+Your sentence is: Hoo
+-------------------------------------------------------
+

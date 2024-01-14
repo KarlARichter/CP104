@@ -1,0 +1,84 @@
+-------------------------------------------------------
+Assignment 08 - Testing
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-10-21
+-------------------------------------------------------
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter sentence here: StopAndSmellTheRoses.
+
+Stop and smell the roses.
+
+Enter sentence here: HelloMyNameIsKarl
+
+Hello my name is karl
+
+Enter sentence here: Cp104IsTheBest
+
+Cp104 is the best
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter word: city
+
+cities
+
+Enter word: people
+
+peoples
+
+Enter word: movie
+
+movies
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter first string: yeehaw
+Enter second string: yeehaw
+
+yeehaw
+
+Enter first string: hellojohn
+Enter second string: byejohn
+
+john
+
+Enter first string: running
+Enter second string: jumping
+
+ing
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter ISBN: 978-3-12148410--0
+
+False
+
+Enter ISBN: 978-3-16-148410-0
+
+True
+
+Enter ISBN: 283764-28347932870-3480273489723894=-8237498237498
+
+False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter words: joh hop pop
+
+True
+
+
+Enter words: hi bye
+
+False
+
+
+Enter words: Hi ih ho oh
+
+True
+-------------------------------------------------------

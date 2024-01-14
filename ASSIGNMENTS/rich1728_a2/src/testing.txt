@@ -1,0 +1,130 @@
+"""
+-------------------------------------------------------
+rich1728_a2 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-12
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total sales: 4
+
+Projected Tax Report
+------------------------
+Total sales:   $ 4.00
+Annual tax:    % 18.50
+------------------------
+TAX:           $0.74
+
+Enter the total sales: 3
+
+Projected Tax Report
+------------------------
+Total sales:   $ 3.00
+Annual tax:    % 18.50
+------------------------
+TAX:           $0.56
+
+Enter the total sales: 9
+
+Projected Tax Report
+------------------------
+Total sales:   $ 9.00
+Annual tax:    % 18.50
+------------------------
+TAX:           $1.67
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive digit number: 25
+
+The difference of the digits of 25 is -3
+
+Enter a positive digit number: 23
+
+The difference of the digits of 23 is -1
+
+Enter a positive digit number: 14
+
+The difference of the digits of 25 is -3
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 20231123
+
+The reformatted date: 2023/11/23
+
+Enter a date in the format YYYYMMDD: 20081216
+
+The reformatted date: 2008/12/16
+
+Enter a date in the format YYYYMMDD: 18760322
+
+The reformatted date: 1876/03/22
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Number of flyers: 1400
+Number of delivery people: 12
+
+Flyers per delivery person: 116
+Flyers left over: 8
+
+Number of flyers: 5
+Number of delivery people: 6
+
+Flyers per delivery person: 0
+Flyers left over: 5
+
+
+Number of flyers: 43
+Number of delivery people: 23
+
+Flyers per delivery person: 1
+Flyers left over: 20
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Foundation length (m): 4
+Foundation width (m): 2
+Foundation height (m): 0.6
+Wall height (m): 2.5
+Cost of concrete ($/m^3): 125
+Cost of bricks ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+Foundation length (m): 1
+Foundation width (m): 4
+Foundation height (m): 3
+Wall height (m): 2
+Cost of concrete ($/m^3): 3
+Cost of bricks ($/m^2): 4
+
+Concrete needed for foundation (m^3): 12.00
+Cost of concrete: $36.00
+Bricks needed for walls (m^2): 20.00
+Cost of bricks: $80.00
+Total cost: $116.00
+
+Foundation length (m): 3
+Foundation width (m): 5
+Foundation height (m): 12
+Wall height (m): 3
+Cost of concrete ($/m^3): 55
+Cost of bricks ($/m^2): 2
+
+Concrete needed for foundation (m^3): 180.00
+Cost of concrete: $9900.00
+Bricks needed for walls (m^2): 48.00
+Cost of bricks: $96.00
+Total cost: $9,996.00
+-------------------------------------------------------

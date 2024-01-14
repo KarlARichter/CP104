@@ -1,0 +1,91 @@
+
+
+"""
+-------------------------------------------------------
+Assignment 01  Testing
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-09
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+hello
+hello
+hello
+hello
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Output 1:
+what is your age? 50
+what is your favoirte band? Red Hot Chili Peppers
+I am 50 years old and Red Hot Chili Peppers is my favorite band.
+
+Output 2:
+what is your age? 60
+what is your favoirte band? The Beatles
+I am 60 years old and The Beatles is my favorite band.
+
+Output 3:
+what is your age? 75
+what is your favoirte band? Pink Floyd
+I am 75 years old and Pink Floyd is my favorite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Output 1:
+Length in miles: 35
+Length in km:  56.35
+
+Output 2:
+Length in miles: 25
+Length in km:  40.25
+
+Output 3:
+Length in miles: 45
+Length in km:  72.45
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Output 1:
+Cost of 1 dosa: 5
+Number of dosa: 5
+Total cost of 5.0 dosas: $ 25.0
+
+Output 2:
+Cost of 1 dosa: 3
+Number of dosa: 5
+Total cost of 3.0 dosas: $ 15.0
+
+Output 3:
+Cost of 1 dosa: 10
+Number of dosa: 5
+Total cost of 10.0 dosas: $ 50.0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Output 1:
+Principal: 5000
+Interest (%): 5
+Number of years: 10
+Number of times interest compounded per year: 12
+8235.0474884514
+
+Output 2:
+Principal: 6000
+Interest (%): 3
+Number of years: 34
+Number of times interest compounded per year: 2
+16513.61378842516
+
+Output 3:
+Principal: 4000
+Interest (%): 8
+Number of years: 2
+Number of times interest compounded per year: 23
+4692.740517134558
+-------------------------------------------------------

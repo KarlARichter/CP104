@@ -1,0 +1,135 @@
+"""
+-------------------------------------------------------
+rich1728_a6 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-22
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): yellow
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): gold 
+Enter the winning team (or press Enter to finish): orange
+Enter the winning team (or press Enter to finish): 
+(3, 2)
+
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): yellow
+Enter the winning team (or press Enter to finish): orange
+Enter the winning team (or press Enter to finish): blue
+Enter the winning team (or press Enter to finish): 
+(4, 4)
+
+Enter the winning team (or press Enter to finish): purple
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): gold
+Enter the winning team (or press Enter to finish): 
+(1, 2)
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter number: 131
+
+True
+
+Enter number: 2323
+
+False
+
+Enter number: 3
+
+True
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter the original value of the loan: 750
+Enter yearly interest rate (%): 8.5
+Enter the monthly payments: 200
+
+principal_amount: $750.00
+Interest rate: 8.50%
+Monthly payment: $200.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1    5.31    200.00     555.31
+    2    3.93    200.00     359.25
+    3    2.54    200.00     161.79
+    4    1.15    162.94       0.00
+
+Enter the original value of the loan: 350
+Enter yearly interest rate (%): 5
+Enter the monthly payments: 450
+
+principal_amount: $350.00
+Interest rate: 5.00%
+Monthly payment: $450.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1    1.46    351.46       0.00
+
+Enter the original value of the loan: 1500
+Enter yearly interest rate (%): 6.7
+Enter the monthly payments: 200
+
+principal_amount: $1500.00
+Interest rate: 6.70%
+Monthly payment: $200.00
+----------------------------------
+Month Interest   Payment   Balance
+----------------------------------
+    1    8.38    200.00    1308.38
+    2    7.31    200.00    1115.68
+    3    6.23    200.00     921.91
+    4    5.15    200.00     727.06
+    5    4.06    200.00     531.12
+    6    2.97    200.00     334.08
+    7    1.87    200.00     135.95
+    8    0.76    136.71       0.00
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter an int: -1024
+
+Number of digits in the int -1024 is 4
+
+Enter an int: 3
+
+Number of digits in the int 3 is 1
+
+Enter an int: 4234234234247984723
+
+Number of digits in the int 4234234234247984723 is 19
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter number greater than 1: 9
+
+The sum of factors of the integer 9 is 4
+
+Enter number greater than 1: 343
+
+The sum of factors of the integer 343 is 57
+
+Enter number greater than 1: 4
+
+The sum of factors of the integer 4 is 3
+-------------------------------------------------------

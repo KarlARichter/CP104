@@ -1,0 +1,100 @@
+"""
+-------------------------------------------------------
+rich1728_a3 testing.txt
+-------------------------------------------------------
+Author:  Karl Richter
+ID:      169061728
+Email:   rich1728@mylaurier.ca
+Version: 2023-09-18
+------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter amount of acres: 5
+
+5.0 square feet -> 0.0001147842056932966 acres
+
+
+Enter amount of acres: 10
+
+10.0 square feet -> 0.0002295684113865932 acres
+
+
+Enter amount of acres: 4444.4
+
+4444.4 square feet -> 0.10202938475665747 acres
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter width of lawn: 34
+Enter length of lawn: 23
+Enter speed of mowing: 5
+
+It will take 156.4 minutes to mow the lawn
+
+
+Enter width of lawn: 5
+Enter length of lawn: 7
+Enter speed of mowing: 3
+
+It will take 11.66 minutes to mow the lawn
+
+
+Enter width of lawn: 12
+Enter length of lawn: 42
+Enter speed of mowing: 2
+
+It will take 252.0 minutes to mow the lawn
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter date: 20160214
+Extracted date: 2016, 02, 14
+
+Enter date: 19870712
+Extracted date: 1987, 07, 12
+
+Enter date: 18321129
+Extracted date: 1832, 11, 29
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter first numerator: 1
+Enter second numerator: 2
+Enter first denominator: 3
+Enter second denominator: 4
+
+3, 8, 0.375
+
+
+Enter first numerator: 5
+Enter second numerator: 10
+Enter first denominator: 22
+Enter second denominator: 3
+
+110, 30, 3.6666666666666665
+
+Enter first numerator: 3
+Enter second numerator: 42
+Enter first denominator: 1
+Enter second denominator: 4
+
+3, 168, 0.017857142857142856
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter time fallen (s): 15
+
+The object has fallen 1102.50 meters in 15 seconds.
+
+
+Enter time fallen (s): 25
+
+The object has fallen 3062.50 meters in 25 seconds.
+
+
+Enter time fallen (s): 150
+
+The object has fallen 110250.00 meters in 150 seconds.
+-------------------------------------------------------
